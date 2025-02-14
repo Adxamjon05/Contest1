@@ -1,6 +1,6 @@
 import random
-from task1 import 
-from task2 import 
+from task1 import kwargsAcceptFun
+from task2 import typeBasedTransformer
 from task3 import decorator_1
 
 @decorator_1
